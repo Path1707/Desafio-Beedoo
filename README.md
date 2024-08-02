@@ -46,4 +46,7 @@ A plataforma deve ser acessível via dispositivos móveis e desktop.
 Aplicativos na versão iOS e Android.
 
 
+https://docs.google.com/document/d/11A7eNZFn5Li55YIsoi9xLSOJvV4jbsgKkvIyTHjcZ9g/edit?usp=sharing
+
+
 
