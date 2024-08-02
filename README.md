@@ -47,6 +47,7 @@ Aplicativos na versão iOS e Android.
 
 
 https://docs.google.com/document/d/11A7eNZFn5Li55YIsoi9xLSOJvV4jbsgKkvIyTHjcZ9g/edit?usp=sharing
+https://drive.google.com/drive/folders/1lAb_Ny0eOxB3x3XigvRQv382G83PMykU?usp=drive_link
 
 
 
