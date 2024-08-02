@@ -1,4 +1,4 @@
-# User-Story-Beedoo
+# Desafio Beedoo
 Título: Criação de Cursos de Capacitação para Colaboradores
 
 Como Coordenador de Recursos Humanos,
