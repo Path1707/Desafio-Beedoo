@@ -36,7 +36,10 @@ Título: Criação de Cursos de Capacitação para Colaboradores
 - Aplicativos na versão iOS e Android.
 
 ## Links: 🔗
+Documentação dos cenários e casos de teste
 https://docs.google.com/document/d/11A7eNZFn5Li55YIsoi9xLSOJvV4jbsgKkvIyTHjcZ9g/edit?usp=sharing
+
+Evidências dos casos de teste e Bugs encontrados
 https://drive.google.com/drive/folders/1lAb_Ny0eOxB3x3XigvRQv382G83PMykU?usp=drive_link
 
 
