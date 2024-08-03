@@ -9,7 +9,7 @@ Título: Criação de Cursos de Capacitação para Colaboradores
 
 ## Critérios de Aceitação:
 
-### Criação de Curso:
+### Criação de Curso: 📖
 - O sistema deve permitir a criação de novos cursos, com campos para nome, descrição, objetivos, público-alvo, duração e materiais necessários.
 - Deve ser possível definir módulos e lições dentro do curso.
 
@@ -29,17 +29,17 @@ Título: Criação de Cursos de Capacitação para Colaboradores
 - O coordenador deve ter acesso a relatórios sobre a participação dos colaboradores, progresso nos cursos e resultados das avaliações.
 - Deve ser possível gerar relatórios personalizados para acompanhar o impacto dos cursos na performance dos colaboradores.
 
-### Notificações e Lembretes:
+### Notificações e Lembretes: 📝
 - O sistema deve enviar notificações e lembretes aos colaboradores sobre novas inscrições, prazos e avaliações pendentes.
 
-### Certificação:
+### Certificação: 📜
 - O sistema deve gerar certificados de conclusão para colaboradores que completarem os cursos, incluindo a data e o nome do curso.
 
 ## Notas Técnicas: 🖥️
 - A plataforma deve ser acessível via dispositivos móveis e desktop.
 - Aplicativos na versão iOS e Android.
 
-## Links:
+## Links: 🔗
 https://docs.google.com/document/d/11A7eNZFn5Li55YIsoi9xLSOJvV4jbsgKkvIyTHjcZ9g/edit?usp=sharing
 https://drive.google.com/drive/folders/1lAb_Ny0eOxB3x3XigvRQv382G83PMykU?usp=drive_link
 
