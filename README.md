@@ -11,15 +11,11 @@ Título: Criação de Cursos de Capacitação para Colaboradores
 
 ### Criação de Curso: 📖
 - O sistema deve permitir a criação de novos cursos, com campos para nome, descrição, objetivos, público-alvo, duração e materiais necessários.
-- Deve ser possível definir módulos e lições dentro do curso.
+- Deve ser possível definir módulos dentro do curso.
 
 ### Gestão de Conteúdo: 📗
-- O coordenador deve poder atualizar o conteúdo dos cursos existentes, incluindo a modificação de módulos, lições e materiais de apoio.
+- O coordenador deve poder atualizar o conteúdo dos cursos existentes, incluindo a modificação de módulos e materiais de apoio.
 - Deve ser possível adicionar ou remover recursos e avaliações.
-
-### Inscrição de Colaboradores: 🖊️
-- Os colaboradores devem ter a capacidade de se inscrever nos cursos disponíveis.
-- O sistema deve permitir a visualização dos cursos em que o colaborador está inscrito e seu progresso.
 
 ### Avaliação e Feedback: 🤯
 - O sistema deve incluir uma funcionalidade para avaliações ao final de cada curso e módulo.
@@ -27,7 +23,6 @@ Título: Criação de Cursos de Capacitação para Colaboradores
 
 ### Relatórios e Monitoramento: 📈
 - O coordenador deve ter acesso a relatórios sobre a participação dos colaboradores, progresso nos cursos e resultados das avaliações.
-- Deve ser possível gerar relatórios personalizados para acompanhar o impacto dos cursos na performance dos colaboradores.
 
 ### Notificações e Lembretes: 📝
 - O sistema deve enviar notificações e lembretes aos colaboradores sobre novas inscrições, prazos e avaliações pendentes.
