@@ -16,6 +16,7 @@ Título: Criação de Cursos de Capacitação para Colaboradores
 ### Gestão de Conteúdo: 📗
 - O coordenador deve poder atualizar o conteúdo dos cursos existentes, incluindo a modificação de módulos e materiais de apoio.
 - Deve ser possível adicionar ou remover recursos e avaliações.
+- Deve ser possível excluir um curso.
 
 ### Avaliação e Feedback: 🤯
 - O sistema deve incluir uma funcionalidade para avaliações ao final de cada curso e módulo.
