@@ -42,5 +42,8 @@ https://docs.google.com/document/d/11A7eNZFn5Li55YIsoi9xLSOJvV4jbsgKkvIyTHjcZ9g/
 Evidências dos casos de teste e Bugs encontrados
 https://drive.google.com/drive/folders/1lAb_Ny0eOxB3x3XigvRQv382G83PMykU?usp=drive_link
 
+Planilha com os casos de teste e passo-a-passo 
+https://docs.google.com/spreadsheets/d/151jarE9ptage66V7IyYKnft7cQiJmp-_6ZiW5UTxVcs/edit?usp=sharing
+
 
 
