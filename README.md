@@ -1,11 +1,11 @@
 # User Story
 Título: Criação de Cursos de Capacitação para Colaboradores
 
-Como Coordenador de Recursos Humanos,
+**Como** Coordenador de Recursos Humanos,
 
-Quero ter a capacidade de criar e gerenciar cursos de capacitação para colaboradores,
+**Quero** ter a capacidade de criar e gerenciar cursos de capacitação para colaboradores,
 
-Para que eu possa assegurar que todos os membros da equipe tenham acesso a treinamentos relevantes e atualizados, melhorando suas habilidades e contribuindo para o crescimento e sucesso da empresa.
+**Para** que eu possa assegurar que todos os membros da equipe tenham acesso a treinamentos relevantes e atualizados, melhorando suas habilidades e contribuindo para o crescimento e sucesso da empresa.
 
 ❗Critérios de Aceitação:❗
 
